@@ -124,9 +124,7 @@
     <allow-intent href="http://www.mojemaslo.com/arena/home.php" />
     <allow-intent href="http://www.mojemaslo.com/arena/home2.php" />
     <allow-intent href="http://www.mojemaslo.com/arena/kategorija.php" />
-    <allow-navigation href="http://www.mojemaslo.com/arena/home.php" />
-    <allow-navigation href="http://www.mojemaslo.com/arena/home2.php" />
-    <allow-navigation href="http://www.mojemaslo.com/arena/kategorija.php" />
+
     <allow-intent href="https://*/*" />
     <allow-intent href="tel:*" />
     <allow-intent href="sms:*" />
