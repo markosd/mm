@@ -121,7 +121,12 @@
     <!-- Whitelist configuration. Refer to https://cordova.apache.org/docs/en/edge/guide_appdev_whitelist_index.md.html -->
 
     <allow-intent href="http://www.mojemaslo.com/arena/" />
-	<allow-navigation href="http://www.mojemaslo.com/arena/" />
+    <allow-intent href="http://www.mojemaslo.com/arena/home.php" />
+    <allow-intent href="http://www.mojemaslo.com/arena/home2.php" />
+    <allow-intent href="http://www.mojemaslo.com/arena/kategorija.php" />
+    <allow-navigation href="http://www.mojemaslo.com/arena/home.php" />
+    <allow-navigation href="http://www.mojemaslo.com/arena/home2.php" />
+    <allow-navigation href="http://www.mojemaslo.com/arena/kategorija.php" />
     <allow-intent href="https://*/*" />
     <allow-intent href="tel:*" />
     <allow-intent href="sms:*" />
