@@ -123,7 +123,7 @@
     <!-- Whitelist configuration. Refer to https://cordova.apache.org/docs/en/edge/guide_appdev_whitelist_index.md.html -->
 
   <allow-navigation href="http://www.mojemaslo.com/arena/*" />
-    <allow-intent href="https://*/*" />
+    <allow-intent href="http://www.mojemaslo.com/arena/*" />
     <allow-intent href="tel:*" />
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
