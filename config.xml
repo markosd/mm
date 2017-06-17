@@ -3,7 +3,7 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.helloworld2"
+        id        = "com.phonegap.arena"
         version   = "1.0.0">
 
     <name>Moje Maslo</name>
@@ -33,9 +33,6 @@
     <!-- Core plugins -->
    
 
-    <plugin name="cordova-plugin-media"               source="npm" spec="~2.2.0" />
-    <plugin name="cordova-plugin-network-information" source="npm" spec="~1.2.0" />
- 
     <plugin name="cordova-plugin-whitelist"           source="npm" spec="~1.2.1" />
 	
 	
