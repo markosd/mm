@@ -2,13 +2,13 @@
 <html>
   <head>
     <meta charset="utf-8">
-   
+    <title>Load remote content into object element</title>
   </head>
   <body>
-   
+    <div id="siteloader" style='width:100%;height:100%;padding:0px;' ></div>
     <script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
     <script>
-      $("body").html('<object data="http://www.mojemaslo.com/arena">');
+      $("#siteloader").html('<object data="http://www.mojemaslo.com/arena">');
     </script>
   </body>
 </html>
